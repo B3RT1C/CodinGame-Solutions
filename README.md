@@ -1,6 +1,6 @@
-# <a href="https://www.codingame.com/">CodinGame-Solutions</a>
+<h1><a href="https://www.codingame.com" target="_blank">CodinGame-Solutions</a></h1>
 Solutions to CodinGame problems from a novice Java programming student.</br>
-My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a19230b5b704348875">profile.</a>
+My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a19230b5b704348875" target="_blank">profile.</a>
 
 <table>
   <tr align="center">
