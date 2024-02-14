@@ -30,7 +30,7 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
   </tr>
 </table>
 
-Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck (not enough knoledge/experience): 🆘
+Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
 
 <h2>Easy Problems</h2>
 <table>
