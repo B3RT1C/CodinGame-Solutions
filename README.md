@@ -34,17 +34,17 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck (not enough knoledge/experience
 
 <h2>Easy Problems</h2>
 <table>
-  <tr>
+  <tr align="center">
     <th>Problem Name</th>
     <th>State</th>
     <th>Programming lenguage</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td><a href="https://www.codingame.com/training/easy/annihilation">Anihilation<a></td>
     <td>✅</td>
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Annihilation.java">Java</a></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><a href="https://www.codingame.com/training/easy/power-of-thor-episode-1">Power of Thor<a></td>
     <td>✅</td>
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/PowerOfThor.java">Java</a></td>
