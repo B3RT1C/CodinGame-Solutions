@@ -1,7 +1,8 @@
 <h1><a href="https://www.codingame.com">CodinGame-Solutions</a></h1>
-Solutions to CodinGame problems from a novice Java programming student.</br>
-My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a19230b5b704348875">profile.</a></br>
-</br>
+Solutions to CodinGame problems from a novice Java programming student.
+
+My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a19230b5b704348875">profile.</a>
+
 <table>
   <tr align="center">
     <th></th>
@@ -26,5 +27,26 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">1</td>
+  </tr>
+</table>
+
+Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck (not enough knoledge/experience): 🆘
+
+<h2>Easy Problems</h2>
+<table>
+  <tr>
+    <th>Problem Name</th>
+    <th>State</th>
+    <th>Programming lenguage</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.codingame.com/training/easy/annihilation">Anihilation<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Annihilation.java">Java</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codingame.com/training/easy/power-of-thor-episode-1">Power of Thor<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/PowerOfThor.java">Java</a></td>
   </tr>
 </table>
