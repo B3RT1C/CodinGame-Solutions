@@ -13,7 +13,7 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
   </tr>
   <tr>
     <td align="right">Java</td>
-    <td align="center">20</td>
+    <td align="center">17</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -21,7 +21,7 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
   </tr>
   <tr>
     <td align="right">Total completed problems</td>
-    <td align="center">20</td>
+    <td align="center">17</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
