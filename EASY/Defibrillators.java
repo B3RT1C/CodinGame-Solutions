@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Defibrillators {
-
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         String LON = in.next();
