@@ -26,5 +26,7 @@ public class Defibrilltors {
             }
         }
         System.out.println(closest);
+
+        in.close();
     }
 }
