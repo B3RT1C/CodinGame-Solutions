@@ -55,8 +55,64 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/BlowingFuse.java">Java</a></td>
   </tr>
   <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/1d-bush-fire">1D Brush Fire<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/BrushFire1D.java">Java</a></td>
+  </tr>
+    <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/defibrillators">Defibrillators<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Defibrillators.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/horse-racing-duals">Horse Racing Duals<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/HorseRacingDuals.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/horse-racing-hyperduals">Horse-Racing Hyperdual<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/HorseRacingHyperduals.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/mars-lander-episode-1">Mars Lander<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/MarsLander.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/mime-type">Mime type<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/MimeType.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/onboarding">Onboarding<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Onboarding.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/personal-best">Personal Best<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/PersonalBest.java">Java</a></td>
+  </tr>
+  <tr align="center">
     <td><a href="https://www.codingame.com/training/easy/power-of-thor-episode-1">Power of Thor<a></td>
     <td>✅</td>
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/PowerOfThor.java">Java</a></td>
   </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/retro-typewriter-art">Retro Typewriter Art<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/RetroTypewriterArt.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock">Rock Paper Scissors Lizard Spock<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/RockPaperScissorsLizardSpock.java">Java</a></td>
+  </tr>
 </table>
+
+  <tr align="center">
+    <td><a href=""><a></td>
+    <td>✅</td>
+    <td><a href="">Java</a></td>
+  </tr>
