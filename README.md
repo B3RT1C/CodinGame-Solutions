@@ -45,6 +45,16 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Annihilation.java">Java</a></td>
   </tr>
   <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/ascii-art">ASCII Art<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/AsciiArt.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/blowing-fuse">Blowing Fuse<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/BlowingFuse.java">Java</a></td>
+  </tr>
+  <tr align="center">
     <td><a href="https://www.codingame.com/training/easy/power-of-thor-episode-1">Power of Thor<a></td>
     <td>✅</td>
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/PowerOfThor.java">Java</a></td>
