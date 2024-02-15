@@ -110,9 +110,3 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/RockPaperScissorsLizardSpock.java">Java</a></td>
   </tr>
 </table>
-
-  <tr align="center">
-    <td><a href=""><a></td>
-    <td>✅</td>
-    <td><a href="">Java</a></td>
-  </tr>
