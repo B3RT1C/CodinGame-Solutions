@@ -1,3 +1,5 @@
+<body>
+  
 <h1><a href="https://www.codingame.com">CodinGame-Solutions</a></h1>
 Solutions to CodinGame problems from a novice Java programming student.
 
@@ -30,6 +32,7 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
   </tr>
 </table>
 
+</body>
 Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
 
 <h2>Easy Problems</h2>
@@ -109,4 +112,24 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
     <td>✅</td>
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/RockPaperScissorsLizardSpock.java">Java</a></td>
   </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/temperatures">Temperatures<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Temperatures.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/the-descent">The Descent<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/TheDescent.java">Java</a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/unary">Unary<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Unary.java">Java</a></td>
+  </tr>
 </table>
+
+  
+
+
+
