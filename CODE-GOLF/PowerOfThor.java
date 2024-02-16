@@ -1,0 +1,1 @@
+import java.util.*;class Player{public static void main(String[]args){Scanner i=new Scanner(System.in);int x=i.nextInt(),y=i.nextInt(),X=i.nextInt(),e=X,Y=i.nextInt(),l=Y;while(true){System.out.print(y==l?"":y>l?"S":"N");l=y==l?y:y>l?l+1:l-1;System.out.println(x==e?"":x>e?"E":"W");e=e==x?e:x>e?e+1:e-1;}}}
