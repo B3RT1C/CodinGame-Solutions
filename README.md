@@ -1,5 +1,3 @@
-<body>
-  
 <h1><a href="https://www.codingame.com">CodinGame-Solutions</a></h1>
 Solutions to CodinGame problems from a novice Java programming student.
 
@@ -16,7 +14,7 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
   </tr>
   <tr>
     <td align="right">Java</td>
-    <td align="center">17</td>
+    <td align="center">18</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -24,7 +22,7 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
   </tr>
   <tr>
     <td align="right">Total completed problems</td>
-    <td align="center">17</td>
+    <td align="center">18</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -32,7 +30,6 @@ My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a1
   </tr>
 </table>
 
-</body>
 Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
 
 <h2>Easy Problems</h2>
@@ -124,6 +121,15 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
   </tr>
   <tr align="center">
     <td><a href="https://www.codingame.com/training/easy/unary">Unary<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Unary.java">Java</a></td>
+  </tr>
+</table>
+
+<h2>Code Golf</h2>
+<table>
+  <tr align="center">
+    <td><a href="https://www.codingame.com/codegolf/easy/power-of-thor">Power of Thor<a></td>
     <td>✅</td>
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Unary.java">Java</a></td>
   </tr>
