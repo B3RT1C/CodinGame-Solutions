@@ -110,6 +110,11 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/RockPaperScissorsLizardSpock.java">Java</a></td>
   </tr>
   <tr align="center">
+    <td><a href="https://www.codingame.com/training/easy/1d-spreadsheet">1D Spreadsheet<a></td>
+    <td>✅</td>
+    <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Spreadsheet1D.java">Java</a></td>
+  </tr>
+  <tr align="center">
     <td><a href="https://www.codingame.com/training/easy/temperatures">Temperatures<a></td>
     <td>✅</td>
     <td><a href="https://github.com/B3RT1C/CodinGame-Solutions/blob/main/EASY/Temperatures.java">Java</a></td>
