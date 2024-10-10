@@ -1,5 +1,5 @@
 <h1><a href="https://www.codingame.com">CodinGame-Solutions</a></h1>
-Solutions to CodinGame problems from a novice Java programming student.
+Solutions to CodinGame problems to practise the basic logic and syntax of a programming language.
 
 My CodingGame <a href="https://www.codingame.com/profile/abeacb08bc3c6e3a0c796a19230b5b704348875">profile.</a>
 
