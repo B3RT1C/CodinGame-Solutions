@@ -37,7 +37,7 @@ Completed: ✅ - Ongoing/Reviewing: 🔁 - Stuck: 🆘
   <tr align="center">
     <th>Problem Name</th>
     <th>State</th>
-    <th>Programming lenguage</th>
+    <th>Programming language</th>
   </tr>
   <tr align="center">
     <td><a href="https://www.codingame.com/training/easy/annihilation">Anihilation<a></td>
